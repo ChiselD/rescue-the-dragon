@@ -1,0 +1,30 @@
+
+AT START: ask for player name
+
+
+START: in forest near castle
+
+OPTIONS:
+1. Walk straight up to castle boldly. Oh shit, there are guards by the moat bridge! what do you do?
+1.1. Surprise attack - but you’re the one who ends up getting surprised, because they’re a lot better at fighting than you are.
+-> DIE
+1.2. Talk to to them
+1.2.1. Suck up: “you’re very handsome!” - guard is unimpressed and tells you to scoot
+-> RESTART
+1.2.2. “I’m thinking of becoming a guard, is it hard?” - guard is garrulous, tells you interminable stories of guard training, you rue the day & escape ASAP.
+-> RESTART
+1.2.3. Pretend to be looking for work as a gardener - SUCCESS, one of them hails the head gardener and passes you off to him! You start working under the head gardener, who is BRUTAL. He keeps you working in the dirt all day. You’re never allowed to enter the castle, but instead live the rest of your life sharing his tiny hovel in FRUSTRATION, so close and yet so far from your goal.
+-> DIE (of old age and irritation)
+1.2.4. pretend to be looking for work as a kitchen grunt - SUCCESS, one of them hails the gardener who takes you to the head cook!
+//// STORY CONTINUES HERE ////
+
+2. Skulk around castle and do recon. It looks like you could maaaayyyyybe climb up some stringy ivy near the unglamorous back of the castle, over the pigshed. Do you try?
+2.1. Nah, my climbing skills are not so good; I’m going back to the front of the castle and approach the guards.
+-> RETURN to OPTION 1
+2.2. Go for it! Let’s see what your luck’s like today. [spin for luck, should be about a 1 in 3 chance of success]
+2.2.1. You’re halfway up the parapet when the ivy breaks and you fall to your death.
+-> DIE
+2.2.2. Somehow, incredibly, you reach the top! …Of the ivy, which only goes halfway up the castle. //// FOR NOW, THIS MEANS DEATH, BUT LET’S ADD ANOTHER SUCCESS STORYLINE LATER ////
+-> DIE
+
+
