@@ -2,28 +2,59 @@
 AT START: ask for player name
 
 
-START: in forest near castle
+START: in forest near castle. You have heard tell that the cruel duke who rules this realm with an iron fist has a habit of keeping his prisoners, even innocent ones, locked up for their entire lives inside his forbidding fortress. You need fortune and fame, so you’ve decided to rescue whomever might be in there, at risk of great personal danger. Of course, if you fail, YOU’LL be his next prisoner and will never see the light of day again!
 
 OPTIONS:
-1. Walk straight up to castle boldly. Oh shit, there are guards by the moat bridge! what do you do?
-1.1. Surprise attack - but you’re the one who ends up getting surprised, because they’re a lot better at fighting than you are.
--> DIE
-1.2. Talk to to them
-1.2.1. Suck up: “you’re very handsome!” - guard is unimpressed and tells you to scoot
--> RESTART
-1.2.2. “I’m thinking of becoming a guard, is it hard?” - guard is garrulous, tells you interminable stories of guard training, you rue the day & escape ASAP.
--> RESTART
-1.2.3. Pretend to be looking for work as a gardener - SUCCESS, one of them hails the head gardener and passes you off to him! You start working under the head gardener, who is BRUTAL. He keeps you working in the dirt all day. You’re never allowed to enter the castle, but instead live the rest of your life sharing his tiny hovel in FRUSTRATION, so close and yet so far from your goal.
--> DIE (of old age and irritation)
-1.2.4. pretend to be looking for work as a kitchen grunt - SUCCESS, one of them hails the gardener who takes you to the head cook!
-//// STORY CONTINUES HERE ////
+1. Walk straight up to castle boldly.
+> Oh shit, there are guards by the moat bridge! what do you do?
 
-2. Skulk around castle and do recon. It looks like you could maaaayyyyybe climb up some stringy ivy near the unglamorous back of the castle, over the pigshed. Do you try?
+1.1. Surprise attack!
+> But you’re the one who ends up getting surprised, because they’re a lot better at fighting than you are.
+-> DIE
+
+1.2. Talk to them
+
+1.2.1. Suck up: “You’re very handsome!”
+> Guard is unimpressed and tells you to scoot
+-> RESTART
+
+1.2.2. “I’m thinking of becoming a guard, is it hard?”
+> Guard is garrulous, tells you interminable stories of guard training, you rue the day & escape ASAP.
+-> RESTART
+
+1.2.3. Pretend to be looking for work as a gardener - SUCCESS, one of them hails the head gardener and passes you off to him!
+> You start working under the head gardener, who is BRUTAL. He keeps you working in the dirt all day. You’re never allowed to enter the castle, but instead live the rest of your life sharing his tiny hovel in FRUSTRATION, so close and yet so far from your goal.
+-> DIE (of old age and irritation)
+
+1.2.4. Pretend to be looking for work as a kitchen grunt - SUCCESS, one of them hails the gardener who takes you to the head cook!
+> The head cook says “Great, wash dishes.” You star washing. You wash nonstop for eight hours and are too exhausted to try to sneak out and explore the castle that night. Instead, you fall asleep on the pathetically thin mat on the floor in the tiny room where the other low-level servants sleep. Your first chance to get away comes when you’re awoken early the next morning by a strange leathery dragging sound passing the door. You hold your breath and listen intensely, but the sound is already growing more distant. What do you do?
+
+1.2.4.1. Wait for the other servants to awake and go about your day - you don’t want to get in trouble right off the bat.
+/// STORY CONTINUES HERE ///
+
+1.2.4.2. Get up and sneak out of the room as quietly as you can.
+> The castle is dim, but you think you see something just vanishing around the corner at the end of the hallway. You tiptoe after the strange sound, trying not to make a noise. Whatever is making the sound remains just out of sight, leading you teasingly up throughout the castle, higher and higher. What do you think about this?
+
+1.2.4.2.1. Going up doesn’t make sense; the dungeons are always where prisoners are kept. This might be your only chance – you should turn around and find your way down to the dungeons on your own, before the rest of the castle awakes and you miss your chance.
+> 
+/// STORY CONTINUES HERE ///
+
+1.2.4.2.2. You’re too curious – you’ve got to keep following this mysterious sound and find out what it is!
+>
+/// STORY CONTINUES HERE ///
+
+2. Skulk around castle and do recon.
+> It looks like you could maaaayyyyybe climb up some stringy ivy near the unglamorous back of the castle, over the pigshed. Do you try?
+
 2.1. Nah, my climbing skills are not so good; I’m going back to the front of the castle and approach the guards.
 -> RETURN to OPTION 1
-2.2. Go for it! Let’s see what your luck’s like today. [spin for luck, should be about a 1 in 3 chance of success]
+
+2.2. Go for it!
+> Let’s see what your luck’s like today. [spin for luck, should be about a 1 in 3 chance of success]
+
 2.2.1. You’re halfway up the parapet when the ivy breaks and you fall to your death.
 -> DIE
+
 2.2.2. Somehow, incredibly, you reach the top! …Of the ivy, which only goes halfway up the castle. //// FOR NOW, THIS MEANS DEATH, BUT LET’S ADD ANOTHER SUCCESS STORYLINE LATER ////
 -> DIE
 
