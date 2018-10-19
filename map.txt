@@ -6,7 +6,7 @@ START: in forest near castle. You have heard tell that the cruel duke who rules 
 
 OPTIONS:
 1. Walk straight up to castle boldly.
-> Oh shit, there are guards by the moat bridge! what do you do?
+> Oh no, there are guards by the moat bridge! What do you do?
 
 1.1. Surprise attack!
 > But you’re the one who ends up getting surprised, because they’re a lot better at fighting than you are.
@@ -55,7 +55,7 @@ OPTIONS:
 2.2.1. You’re halfway up the parapet when the ivy breaks and you fall to your death.
 -> DIE
 
-2.2.2. Somehow, incredibly, you reach the top! …Of the ivy, which only goes halfway up the castle. //// FOR NOW, THIS MEANS DEATH, BUT LET’S ADD ANOTHER SUCCESS STORYLINE LATER ////
--> DIE
+2.2.2. Somehow, incredibly, you reach the top! …Of the ivy, which only goes halfway up the castle. //// FOR NOW, THIS MEANS GO BACK, BUT LET’S ADD ANOTHER SUCCESS STORYLINE LATER ////
+-> RETURN to OPTION 1
 
 
